@@ -1,0 +1,29 @@
+{
+  "mappings": [
+    {
+      "id": "OpenAI-qwen2.5-coder:14b",
+      "model": "qwen2.5-coder:14b",
+      "options": {}
+    },
+    {
+      "id": "OpenAI-qwen2.5-coder:32b",
+      "model": "qwen2.5-coder:32b",
+      "options": {}
+    },
+    {
+      "id": "OpenAI-codestral",
+      "model": "codestral:latest",
+      "options": {}
+    },
+    {
+      "id": "OpenAI-llama3.2",
+      "model": "llama3.2:latest",
+      "options": {}
+    },
+    {
+      "id": "OpenAI-deepseek-coder",
+      "model": "deepseek-coder:latest",
+      "options": {}
+    }
+  ]
+}
